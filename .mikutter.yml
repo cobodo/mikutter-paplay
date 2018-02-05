@@ -1,0 +1,9 @@
+---
+slug: :paplay
+depends:
+  mikutter: 3.6.1
+  plugin: []
+version: '1.0'
+author: 
+name: paplay
+description: paplayコマンドを使ってサウンドを再生するプラグインです。標準のALSAプラグインを書き換えただけです。
